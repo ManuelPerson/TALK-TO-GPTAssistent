@@ -13,7 +13,7 @@ Du benötigst eine Bluetooth-Anbindung sowie eine Bluetooth-Lautsprecherbox mit 
 
 Verbinde die Bluetooth-Lautsprecherbox mit dem Mini-PC und stelle sicher, dass Audioeingang und Audioausgang über Bluetooth funktionieren. 
 
-##Dieses Open- Surce- Projekt ist ein Non Profit- Project und schließte alle Weiterentwicklungen zb. unter sämtlichen anderen Betriebssystemen und Browser ein.##
+##Dieses Open- Surce- Projekt ist ein Non Profit- Project und schließt alle Weiterentwicklungen zb. unter sämtlichen anderen Betriebssystemen und Browser ein.##
 
 ###Installation:###  
 
