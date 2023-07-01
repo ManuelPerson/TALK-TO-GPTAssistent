@@ -24,7 +24,7 @@ Verbinde die Bluetooth-Lautsprecherbox mit dem Mini-PC und stelle sicher, dass A
 
 Stelle sicher, dass du die zur Verfügung gestellte AutostartGPT.bat-Datei und das Python-Skript (GPTAssistent.exe) bereits heruntergeladen hast.   
 
-Diese Dateien findest du in einem Ordner mit dem Namen “dist”, welcher als Zip-Datei zum Download für dich bereitsteht.  
+Diese Dateien findest du in einem Ordner mit dem Namen “dist”, welcher als dist.zip-Datei (bzw. dist.rar) zum Download für dich bereitsteht.  
 
 ###Wichtig!###  
 
