@@ -97,4 +97,4 @@ Ich wünsche dir nun viel Freude mit diesem Opensurce- Projekt und deinem persö
 Liebe Grüße:  Manuel Person  
 
 
-##Dieses Open- Surce- Projekt schließte alle Weiterentwicklungen unter anderen Betriebssystemen und Browser ein.##
+##Dieses Open- Surce- Projekt schließt alle Weiterentwicklungen unter anderen Betriebssystemen und Browser ein.##
