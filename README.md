@@ -14,7 +14,7 @@ Du benötigst eine Bluetooth-Anbindung sowie eine Bluetooth-Lautsprecherbox mit 
 
 Verbinde die Bluetooth-Lautsprecherbox mit dem Mini-PC und stelle sicher, dass Audioeingang und Audioausgang über Bluetooth funktionieren. 
 
-##Dieses Open- Surce- Projekt ist ein Non Profit- Project und schließt alle Weiterentwicklungen zb. unter sämtlichen anderen Betriebssystemen und Browser ein.##
+##Dieses Open- Surce- Projekt ist ein Non Profit- Project und schließt alle Weiterentwicklungen unabhängig von Betriebssystem und Browser ein.##
 
 ###Installation:###  
 
@@ -94,7 +94,7 @@ Der Google Chrome Browser sollte sich öffnen und die "Talk to Chat GPT"-Erweite
 
 Du kannst nun den Sprachassistenten verwenden, indem du mit der Erweiterung durch Sprache interagierst. Die Erweiterung ermöglicht Sprach-zu-Text- und Text-zu-Sprache-Konvertierung. 
 
-Ich wünsche dir nun viel Freude mit diesem Opensurce- Projekt und deinem persönlichen ChatGPT Sprachassistenten.  
+Ich wünsche dir nun viel Freude mit diesem Open-Surce- Projekt und deinem persönlichen ChatGPT Sprachassistenten.  
 
  
 
