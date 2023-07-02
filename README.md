@@ -2,6 +2,7 @@
 
 Talk to GPTAssistent macht aus einem Windows Betriebssystem einen Sprachassistenten auf Basis der OpenAI Webanwendung von ChatGPT3.5. 
 Talk to GPTAssistent soll darüberhinaus künftig auch als lockale Anwendung ohne Internetanbindung betrieben werden können. 
+Talk to GPTAssistent wird künftig durch einen visuellen Avatar erweitert. 
 Talk to GPTAssistent ist ein Open- Surce- Projekt. 
 
 **System- und Hardware-Anforderungen:** 
