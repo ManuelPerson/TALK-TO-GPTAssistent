@@ -101,4 +101,4 @@ Ich wünsche dir nun viel Freude mit diesem Open-Surce- Projekt und deinem pers�
 
  
 
-Liebe Grüße:  Manuel Person  
+Liebe Grüße:  OpenPI 
